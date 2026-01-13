@@ -194,6 +194,20 @@ cd churn-ia
 streamlit run dashboard.py
 ```
 
+---
+
+## 🔗Links
+
+* [Dataset](https://www.kaggle.com/code/semihizinli/churn-telecom-project/notebook)
+* [Notebook Colab](https://github.com/hackathon-one-2025/Data_Science/blob/main/Hackathon.ipynb)
+* [pipeline_churn_hackathon.joblib](https://github.com/hackathon-one-2025/Data_Science/blob/bd45827f6a9be005d852a05daa938c2c57bae426/pipeline_churn_hackathon.joblib)
+* [churn_predictions_production.csv](https://raw.githubusercontent.com/hackathon-one-2025/Data_Science/refs/heads/main/churn_predictions_production.csv?token=GHSAT0AAAAAADTFPRB6SDGPFYBQPPTZYAVK2LG2GFQ)
+* [predicoes_churn_hackathon.csv](https://raw.githubusercontent.com/hackathon-one-2025/Data_Science/refs/heads/main/predicoes_churn_hackathon.csv?token=GHSAT0AAAAAADTFPRB7I5ZU6FG3M3XZGA622LG2H2Q)
+* [chatbot_churn_uuid](https://github.com/tecnicoerick/chatbot_churn_uuid/tree/main)
+* [churninsight](https://github.com/hackathon-one-2025/churninsight)
+
+---
+
 ### 🤝 Colaboração
 
 Este projeto demonstra a integração real entre Ciência de Dados e Engenharia de Software, mostrando como modelos matemáticos podem se tornar produtos utilizáveis, confiáveis e escaláveis.
