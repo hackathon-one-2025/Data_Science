@@ -4,6 +4,7 @@
 **Domínio:** Serviços de Assinatura (Telecom, Fintech, Streaming)
 
 O ChurnInsight é uma solução completa que integra Ciência de Dados e Engenharia de Software para prever a evasão de clientes (churn). O projeto combina um modelo de Machine Learning de alta performance, uma API robusta em Java e uma interface interativa (Chatbot/Dashboard) em Streamlit para consulta de resultados via UUID.
+
 ---
 
 ## 📌 Visão Geral
