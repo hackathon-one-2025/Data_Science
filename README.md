@@ -18,6 +18,14 @@ O Problema: Identificar quais clientes possuem propensão a cancelar o serviço 
 
 O projeto foi desenvolvido de forma colaborativa entre os times de **Data Science** e **Back-end**, demonstrando como um modelo preditivo pode ser transformado em um **produto de negócio escalável**.
 
+---
+
+## 🚀Funcionalidades Principais
+* Consulta por UUID: Identificação única e segura de clientes.
+* Análise Preditiva em Tempo Real: Exibição de probabilidade e classificação de risco.
+* Dashboard Interativo: Interface amigável para times de Customer Success e Marketing.
+* Pipeline de Dados Escalável: Integração entre JSON, Excel e bases de produção.
+* Resiliência: Sistema de fallback para garantir disponibilidade do serviço de IA.
 
 ---
 
