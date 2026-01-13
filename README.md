@@ -3,14 +3,17 @@
 **Status:** ✅ Concluído | MVP Integrado  
 **Domínio:** Serviços de Assinatura (Telecom, Fintech, Streaming)
 
+O ChurnInsight é uma solução completa que integra Ciência de Dados e Engenharia de Software para prever a evasão de clientes (churn). O projeto combina um modelo de Machine Learning de alta performance, uma API robusta em Java e uma interface interativa (Chatbot/Dashboard) em Streamlit para consulta de resultados via UUID.
 ---
 
 ## 📌 Visão Geral
 
-Este projeto foi desenvolvido no contexto de um hackathon, com o objetivo de construir um **modelo de Machine Learning para predição de churn (evasão de clientes)** em uma operadora de telecomunicações. 
-A solução visa apoiar decisões de negócio, permitindo identificar clientes com alto risco de cancelamento e possibilitando ações preventivas.
+Este projeto foi concebido para transformar dados brutos em decisões de negócio. A retenção de clientes é tratada aqui através de uma "bola de cristal baseada em dados", que analisa o comportamento de uso e histórico financeiro para identificar riscos antes que o cancelamento ocorra.
 
-O problema foi tratado como uma **classificação binária**, onde: - 0 → Cliente não evadiu - 1 → Cliente evadiu
+O Problema: Identificar quais clientes possuem propensão a cancelar o serviço (Churn). A Solução: Classificação binária onde:
+
+* 0 → Cliente Retido
+* 1 → Cliente em Risco de Evasão (Churn)
 
 O projeto foi desenvolvido de forma colaborativa entre os times de **Data Science** e **Back-end**, demonstrando como um modelo preditivo pode ser transformado em um **produto de negócio escalável**.
 
