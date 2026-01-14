@@ -219,9 +219,9 @@ Este projeto demonstra a integração real entre Ciência de Dados e Engenharia 
 **Membros da Equipe:**
 
 **Data Science**
-* Lucca Paiva – [Linkedin](www.linkedin.com/in/paiva-rc-lucca) | [GitHub](paiva4599 (Lucca Paiva))
+* Lucca Paiva – [Linkedin](https://www.linkedin.com/in/paiva-rc-lucca) | [GitHub](paiva4599 (Lucca Paiva))
 * Erick Vieira - [Linkedin](https://www.linkedin.com/in/erickvieira-frontend) | [GitHub](tecnicoerick (Erick))
-* Raylaine Barreto - [Linkedin](www.linkedin.com/in/raylaine-barreto) | [GitHub](Raybarreto (Raylaine Barreto))
+* Raylaine Barreto - [Linkedin](https://www.linkedin.com/in/raylaine-barreto) | [GitHub](Raybarreto (Raylaine Barreto))
 
 **Back-End**
 * Lucas Dias - [Linkedin](https://www.linkedin.com/in/lucas-ferreira-dias/) | [GitHub]( lcsdiasferreira3 (Lucas Dias Ferreira))
