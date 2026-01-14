@@ -211,3 +211,19 @@ streamlit run dashboard.py
 ### 🤝 Colaboração
 
 Este projeto demonstra a integração real entre Ciência de Dados e Engenharia de Software, mostrando como modelos matemáticos podem se tornar produtos utilizáveis, confiáveis e escaláveis.
+
+**Projeto:**  ChurnInsight — Previsão de Cancelamento de Clientes
+
+**Nome da Equipe:** DataStorm | H12-25-B-Equipo 37-Data Science
+
+**Membros da Equipe:**
+
+**Data Science**
+* Lucca Paiva – [Linkedin](www.linkedin.com/in/paiva-rc-lucca) | [GitHub](paiva4599 (Lucca Paiva))
+* Erick Vieira - [Linkedin](https://www.linkedin.com/in/erickvieira-frontend) | [GitHub](tecnicoerick (Erick))
+* Raylaine Barreto - [Linkedin](www.linkedin.com/in/raylaine-barreto) | [GitHub](Raybarreto (Raylaine Barreto))
+
+**Back-End**
+* Lucas Dias - [Linkedin](https://www.linkedin.com/in/lucas-ferreira-dias/) | [GitHub]( lcsdiasferreira3 (Lucas Dias Ferreira))
+* Gabriel Cardoso - [Linkedin](https://www.linkedin.com/in/gabriel-cardoso-developer/) | [GitHub](cardosogoc (Gabriel de Oliveira Cardoso))
+* André Goçalves - [Linkedin](https://www.linkedin.com/in/andre-goncalves-barbosa-ba076b224/) | [GitHub](AndreGBarbosa (AndreBarbosa))
